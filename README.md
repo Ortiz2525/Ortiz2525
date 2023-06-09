@@ -7,10 +7,9 @@
 
 ###
 <div align="right">
-<img align="right" height="200" src="/assets/1.jpg"  />
+ <img  height="200" src="/assets/1.jpg"  height="200" width="300" />
  </div>
- <div align="right">
-<img align="right" height="200" src="/assets/2.jpg"  />
+
 </div>
 ###
 
