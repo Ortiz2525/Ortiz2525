@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nicolas Ortiz</h1>
-<h3 align="center">Blockchain developer and JavaScript developer</h3>
+<h3 align="center">Blockchain and JavaScript developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -12,6 +12,7 @@
 ###
 
 <div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" height="30" width="42" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
