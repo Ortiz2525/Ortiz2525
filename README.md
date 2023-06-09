@@ -12,8 +12,8 @@
 ###
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" height="30" width="30" alt="Solidity logo"  />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Ethereum_logo.svg" height="30" width="30" alt="Ethereum logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" height="35" width="35" alt="Solidity logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Ethereum_logo.svg" height="35" width="35" alt="Ethereum logo"  />
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Uniswap_Logo.png" height="34" width="34" alt="Uniswap logo"  />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Chainlink_Logo.png" height="30" width="30" alt="Chainlink logo"  />
   
