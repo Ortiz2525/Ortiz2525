@@ -6,10 +6,10 @@
 </p>
 
 ###
-
+<div align="right">
 <img align="right" height="200" src="/assets/1.jpg"  />
 <img align="right" height="200" src="/assets/2.jpg"  />
-
+</div>
 ###
 
 <div align="center">
