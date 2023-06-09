@@ -13,6 +13,10 @@
 
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" height="30" width="42" alt="html5 logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Ethereum_logo.svg" height="30" width="42" alt="html5 logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Chainlink_Logo_Blue.svg" height="30" width="42" alt="html5 logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Uniswap_Logo_and_Wordmark.png" height="30" width="42" alt="html5 logo"  />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
