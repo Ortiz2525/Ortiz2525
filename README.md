@@ -6,7 +6,7 @@
 </p>
 
 ###
- <img align="right"  height="200" src="/assets/1.jpg"  height="200" width="300" />
+ <img align="right"  height="200" src="/assets/1.jpg" />
 ###
 
 <div align="center">
