@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nicolas Ortiz</h1>
-<h3 align="center">Blockchain and JavaScript developer</h3>
+<h3 align="center">Blockchain and JS developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
-###
  <img align="right"  height="200" src="/assets/1.jpg" />
-###
 
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" height="35" width="35" alt="Solidity logo"  />
