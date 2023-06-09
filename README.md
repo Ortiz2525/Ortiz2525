@@ -12,10 +12,10 @@
 ###
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Ethereum_logo.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Uniswap_Logo.png" height="30" width="30" alt="html5 logo"  />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Chainlink_Logo.png" height="30" width="30" alt="html5 logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" height="30" width="40" alt="Solidity logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Ethereum_logo.svg" height="30" width="40" alt="Ethereum logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Uniswap_Logo.png" height="40" width="40" alt="Uniswap logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Chainlink_Logo.png" height="30" width="30" alt="Chainlink logo"  />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
