@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Reizō Riu</h1>
 <h3 align="center">Senior Solidity Smart Contract Engineer</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
  <img align="right"  height="200" src="/assets/1.jpg" />
